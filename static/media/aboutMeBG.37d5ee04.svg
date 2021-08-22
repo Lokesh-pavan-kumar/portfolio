@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.13847508"
-     inkscape:cx="1166.2748"
-     inkscape:cy="1556.2367"
+     inkscape:zoom="0.06923754"
+     inkscape:cx="2917.4924"
+     inkscape:cy="1740.3853"
      inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -74,7 +74,7 @@
        x2="766.63161"
        y2="194.39525"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3598684,0,0,1.5768652,-96.963045,-11.9796)" />
+       gradientTransform="matrix(2.6241876,0.06548061,0,2.6990684,-386.45304,-115.7929)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -83,9 +83,9 @@
      style="display:inline">
     <path
        style="mix-blend-mode:screen;fill:#f1aaa1;fill-opacity:1;stroke:url(#linearGradient16965);stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 44.816434,243.46315 C 209.61666,134.77435 495.09007,25.689967 731.83055,5.9477349 761.00747,3.8269055 808.14992,5.3764826 826.22727,8.2727301 890.88901,18.632458 929.50178,41.541577 941.89454,108.50791 947.71584,139.9644 887.63906,520.3719 884.03767,539.84951 716.07247,735.35245 115.3783,736.60249 -183.69572,764.68199 -353.30915,776.13225 -122.02135,381.77842 44.816434,243.46315 Z"
+       d="M -112.856,328.26705 C -15.631684,273.81782 99.376832,177.95449 230.78917,128.62064 529.22689,16.583343 895.71898,-29.652278 1212.9,-45.199061 c 56.3037,-2.22522 147.2763,2.69715 182.1608,8.525025 124.78,20.846007 199.2924,61.918081 223.2073,177.138906 11.2335,54.12334 -104.6988,702.36152 -111.6485,735.52729 C 1182.4911,1202.5402 23.309786,1175.7551 -553.82418,1209.4169 -881.13335,1220.8487 -434.80892,556.98314 -112.856,328.26705 Z"
        id="path16157"
-       sodipodi:nodetypes="ccssccc" />
+       sodipodi:nodetypes="cscssccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 667.67934,-45.545864 Z"
